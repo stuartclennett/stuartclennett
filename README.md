@@ -2,7 +2,7 @@ I'm a creative, skilled & disciplined developer with a natural flair for transla
 
 - 🔭 I’m currently working on projects for remote learning, print production, clinical systems.
 - 🌱 I’m currently learning Linux.  And Javascript. On repeat. Like everyone else.
-- 📫 How to reach me: twitter.com/stuartclennett
+- 📫 How to reach me: about.me/stuartclennett
 - 😄 Pronouns: he/him
 
 <!--
