@@ -1,9 +1,7 @@
 I'm a creative, skilled & disciplined developer with a natural flair for translating business requirements into efficient and effective IT solutions. I'm a developer with 35 years experience and can work autonomously or as part of a team, and possess excellent communication, presentation & business skills.
 
 - 🔭 I’m currently working on projects for remote learning, print production, clinical systems.
-- 🌱 I’m currently learning Linux.  And Javascript. On repeat. Like everyone else.
 - 📫 How to reach me: about.me/stuartclennett
-- 😄 Pronouns: he/him
 
 <!--
 **stuartclennett/stuartclennett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
